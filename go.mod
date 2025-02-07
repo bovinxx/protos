@@ -1,4 +1,4 @@
-module github.com/bovinxx/protoc
+module github.com/bovinxx/protos
 
 go 1.23.6
 
